@@ -30,7 +30,7 @@ be [Facepage](https://github.com/strohne/Facepager).
 
 ## Criteria for scraping data
 
-1. The comments were scraped form Quebrando o Tabu's Facebook](https://www.facebook.com/quebrandootabu/) page;
+1. The comments were scraped form [Quebrando o Tabu's Facebook](https://www.facebook.com/quebrandootabu/) page;
 1. I scraped comments 24 hours after the post. Please, note that some comments might be deleted due to users' intervention.
 
 # Scripts for data analysis
