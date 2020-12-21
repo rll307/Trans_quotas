@@ -17,7 +17,7 @@ I would like to thank CNPq for financing this project.
 # Introduction
 I hope this script is useful for researchers in fields of linguistics and applied linguistics. Unfortunately due to regulations form the ethic research committee, I am unable to provide my data (actual comments and their classification). However, the article explains all classification and a link for the post is available (see bellow).
 
-If you have any further questions, please feel free to drop us a line.
+If you have any further questions, please feel free to drop me a line.
 
 
 # Data scraping
