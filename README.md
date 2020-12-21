@@ -1,6 +1,6 @@
 # Script for the Article
 
-> Lima-Lopes, Rodrigo Esteves de. ‘Reactions to Social Quotas: A Study of Facebook Comments in Brazilian Portuguese’. *Revista Da ABRALIN*, Dec. 2020, pp. 211–39, doi:10.25189/rabralin.v19i3.1703.
+> Lima-Lopes, Rodrigo Esteves de. ‘Reactions to Social Quotas: A Study of Facebook Comments in Brazilian Portuguese’. *Revista da ABRALIN*, Dec. 2020, pp. 211–39, doi:10.25189/rabralin.v19i3.1703.
 
 The article is available [here](https://revista.abralin.org/index.php/abralin/article/view/1703)
 
@@ -12,7 +12,13 @@ The article is available [here](https://revista.abralin.org/index.php/abralin/ar
 
 ## Thank you note
 
-We hope this script is useful for researchers in fields of linguistics and applied linguistics. Unfortunately due to regulations form the committee for research ethics, we cannot provide data in this repository. If you have any further questions, please feel free to drop us a line. I would like to thank CNPq for financing this project.
+I would like to thank CNPq for financing this project.
+
+# Introduction
+I hope this script is useful for researchers in fields of linguistics and applied linguistics. Unfortunately due to regulations form the ethic research committee, I am unable to provide my data (actual comments and their classification). However, the article explains all classification and a link for the post is available (see bellow).
+
+If you have any further questions, please feel free to drop us a line.
+
 
 # Data scraping
 
@@ -24,17 +30,16 @@ be [Facepage](https://github.com/strohne/Facepager).
 
 ## Criteria for scraping data
 
-1. The comments were scraped form the [post](https://www.facebook.com/quebrandootabu/posts/2311997132189994);
+1. The comments were scraped form Quebrando o Tabu's Facebook](https://www.facebook.com/quebrandootabu/) page;
 1. I scraped comments 24 hours after the post. Please, note that some comments might be deleted due to users' intervention.
 
 # Scripts for data analysis
 
-Each of the script on this repository is relative to a different part of the research. This function of file is listed here:
+Each of the script on this repository is relative to a different part of the research. The function of file is listed here:
 
 1. `Dendrogram`: Binary and dendrogram calculation/Binary and dendrogram plotting
 1. `Wordlist`: Word listing and plotting Wordlists
 1. `Concordancing`: Creating KWIC
-1. `Comparison`: Calculating for t-test and plotting
 
 ## Research flowchart
 
